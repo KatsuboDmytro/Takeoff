@@ -1,0 +1,6 @@
+.clothes__section {
+  margin: 100px 0px 210px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}

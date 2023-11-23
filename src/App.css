@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Kharkiv-Tone';
+}
+
+a, ul, li {
+  text-decoration: none;
+  list-style: none;
+}
+
+.container {
+  padding: 0 151px;
+}
