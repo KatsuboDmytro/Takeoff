@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/takeoff/static/css/main.0066c976.css",
+    "main.js": "/takeoff/static/js/main.802bb5cb.js",
+    "static/media/card_man.png": "/takeoff/static/media/card_man.dc5f561fc5495528acc8.png",
+    "static/media/card_woman.png": "/takeoff/static/media/card_woman.ec04a02eca8cfd5f77af.png",
+    "static/media/card_kids.png": "/takeoff/static/media/card_kids.ca27e2a884f032b892c2.png",
+    "static/media/Kharkiv-Tone.ttf": "/takeoff/static/media/Kharkiv-Tone.6606d31e8d8c3e9f194b.ttf",
+    "static/media/logo.svg": "/takeoff/static/media/logo.8ba00d68efc5f76f56a26ed851d14ddc.svg",
+    "static/media/instagram.svg": "/takeoff/static/media/instagram.fde2efd9027947fdf687a3e58419f0bb.svg",
+    "static/media/tiktok.svg": "/takeoff/static/media/tiktok.1829ffa07c1c8c628a4149f176920cfa.svg",
+    "static/media/cart_icon.svg": "/takeoff/static/media/cart_icon.a205128a23c6b6d254144791e54500a6.svg",
+    "static/media/like_icon.svg": "/takeoff/static/media/like_icon.ea09d8430614ac6559e27ecf1713fe65.svg",
+    "static/media/toggle.svg": "/takeoff/static/media/toggle.799275e8112446abec546d14d5fdf5f9.svg",
+    "static/media/facebook.svg": "/takeoff/static/media/facebook.fd7669825f94ba5160a34703ceb0cf48.svg",
+    "static/media/acc_icon.svg": "/takeoff/static/media/acc_icon.3d9d83fb2061b64c8047ca3945e0830f.svg",
+    "static/media/find_icon.svg": "/takeoff/static/media/find_icon.8c6bb7fa795f38b61ad9a3947ecb4f62.svg",
+    "index.html": "/takeoff/index.html",
+    "main.0066c976.css.map": "/takeoff/static/css/main.0066c976.css.map",
+    "main.802bb5cb.js.map": "/takeoff/static/js/main.802bb5cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0066c976.css",
+    "static/js/main.802bb5cb.js"
+  ]
+}
